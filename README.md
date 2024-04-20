@@ -24,6 +24,6 @@ Tabela de conteúdos
 [![Badge](https://img.shields.io/badge/IBM-Job_Application_Essentials-blue?style=for-the-badge&logo=ghost&logoColor=blue)](https://www.credly.com/badges/14350ba7-c932-43b6-8427-e97369e646b0/public_url)
 [![Badge](https://img.shields.io/badge/IBM-Cybersecurity_Fundamentals-blue?style=for-the-badge&logo=ghost&logoColor=blue)](https://www.credly.com/badges/b84820a3-357c-4be6-8a9e-f6f986d5e93f/public_url)<br>
       * Total de Horas e Progresso Completo dos Cursos(clique na imagem para melhor visualização)
-     <img src="/assets/img/SkillBuilds/Progress.png" width="450rem"> 
-     <img src="/assets/img/SkillBuilds/P-Tech.png" width="450rem">
+     <img src="Imagens/Progress.png" width="500rem"> 
+     <img src="Imagens/P-Tech.png" width="500rem">
 <!--te-->
