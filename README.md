@@ -26,4 +26,9 @@ Tabela de conteúdos
       * Total de Horas e Progresso Completo dos Cursos(clique na imagem para melhor visualização)
      <img src="Imagens/Progress.png" width="500rem"> 
      <img src="Imagens/P-Tech.png" width="500rem">
+     <p align="center">Palestras</p>
+     <div align="center">
+       <img src="Palestras/palestra.png" width="650rem"> 
+       <img src="Palestras/palestra2.png" width="650rem">
+     </div>
 <!--te-->
