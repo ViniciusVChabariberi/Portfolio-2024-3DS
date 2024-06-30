@@ -29,6 +29,6 @@ Tabela de conteúdos
      <p align="center">Palestras</p>
      <div align="center">
        <img src="Palestras/palestra.png" width="650rem"> 
-       <img src="Palestras/palestra2.png" width="650rem">
+       <img src="Palestras/MesaRedonda/MesaRedonda.png" width="650rem">
      </div>
 <!--te-->
